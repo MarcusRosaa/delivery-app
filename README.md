@@ -1,11 +1,9 @@
-### Delivery App Template
+#### DELIVERY APP TEMPLATE
 
-> Desenvolvedor: Henrique Garcia <br>
+> Desenvolvedores: Henrique Garcia e Marcus Vinícius </br>
+> Website: 
 
-<br>
+</br>
 
-![alt text](https://i.imgur.com/c71etKM.png)
-
-![alt text](https://i.imgur.com/XKy6nqu.png)
-
-![alt text](https://i.imgur.com/nVAarek.png)
+##### Tecnologias
+ReactJS, Styled Components, BD MongoDB, Node e Express.
